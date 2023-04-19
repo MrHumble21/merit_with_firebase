@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "377867190059",
+    "project_id": "merit-7fddc",
+    "storage_bucket": "merit-7fddc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377867190059:android:effcc4cc4125c104918f6e",
+        "android_client_info": {
+          "package_name": "com.example.meritapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377867190059-3tkqd3a49p56nng6qj4nf0jb5j4k7ece.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAda2VJu8SdrLcw4gXh6Bfs5i9GKeBrwmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377867190059-3tkqd3a49p56nng6qj4nf0jb5j4k7ece.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "377867190059-14c4clssb1ef9pgli19lfo8267cu53pr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.meritapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377867190059:android:4583e9bd255687f9918f6e",
+        "android_client_info": {
+          "package_name": "com.example.meritwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377867190059-3tkqd3a49p56nng6qj4nf0jb5j4k7ece.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAda2VJu8SdrLcw4gXh6Bfs5i9GKeBrwmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377867190059-3tkqd3a49p56nng6qj4nf0jb5j4k7ece.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "377867190059-14c4clssb1ef9pgli19lfo8267cu53pr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.meritapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
